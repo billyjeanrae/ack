@@ -1,0 +1,31 @@
+{
+  "name": "tmp-cpa",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Plasmic app for 7w3AimKvhNQygAijpdB7ms",
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "@plasmicapp/cli": "^0.1.331",
+    "@plasmicapp/react-web": "^0.2.350",
+    "@plasmicpkgs/antd5": "^0.0.249",
+    "@plasmicpkgs/plasmic-tabs": "^0.0.47",
+    "@plasmicpkgs/react-scroll-parallax": "^0.0.213",
+    "@plasmicpkgs/react-slick": "^0.0.227",
+    "gatsby": "^5.13.7",
+    "gatsby-plugin-react-helmet": "^6.13.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-helmet": "^6.1.0",
+    "react-slick": "^0.30.2",
+    "slick-carousel": "^1.8.1"
+  }
+}

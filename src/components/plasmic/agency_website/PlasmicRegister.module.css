@@ -1,0 +1,31 @@
+.root:global(.__wab_instance) {
+  max-width: 100%;
+  position: relative;
+}
+.svg__zsMo6 {
+  position: relative;
+  object-fit: cover;
+  width: auto;
+  height: 1em;
+}
+.text {
+  font-family: "Inter", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  font-style: normal;
+  color: #ededec;
+  text-align: left;
+  text-transform: none;
+  line-height: 1.5;
+  letter-spacing: normal;
+  white-space: pre;
+  user-select: text;
+  text-decoration-line: none !important;
+  text-overflow: clip !important;
+}
+.svg__au5EK {
+  position: relative;
+  object-fit: cover;
+  width: auto;
+  height: 1em;
+}
